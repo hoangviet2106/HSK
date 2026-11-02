@@ -1,0 +1,4 @@
+pynput>=1.7.7
+pyperclip>=1.9.0
+pypinyin>=0.55.0
+requests>=2.32.3
